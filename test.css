@@ -1,52 +1,7 @@
-body{
-    margin: 0;
-    font-family: Calibri,serif;
+#strikeout{
+    text-decoration: line-through;
+    font-weight: 50;
 }
-h1{
-    margin: 0;
-}
-#topic{
-    background-color: #d8f6d8;
-    padding: 20px;
-    text-align: center;
-    font-weight: 69;
-    letter-spacing: 4px;
-    font-size: 40px;
-}
-h2{
-    margin-left: 69px;
-    margin-right: 69px;
-}
-
-
-#ans1{
-    font-weight: 69;
-    line-height: 35px;
-}
-#list{
-    margin-left: 325px;
-    font-size: 25px;
-    font-weight: 69;
-    margin-right: 69px;
-}
-#porifera{
-    margin:0;
-    background-color:#d8f6d8;
-    padding-left: 69px;
-    padding-top: 9px;
-    padding-bottom: 6px;
-    font-weight: 69;
-    font-size: 35px;
-    text-decoration: underline ;
-}
-#poriferaDef{
-    font-weight: 69;
-    line-height: 35px;
-}
-#imgPorifera{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 500px;
-
+ol{
+    cursor: default;
 }
